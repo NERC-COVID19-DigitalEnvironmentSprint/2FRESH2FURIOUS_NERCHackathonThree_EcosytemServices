@@ -6,6 +6,8 @@ This repository is 2FRESH2FURIOUS's entry to NERC's [COVID-19 Hackathon 3: Ecosy
 # Executive Summary 
 
 
+![Summary](Figures/Summary.png)
+
 # The brief
 [![alt text](https://i2.wp.com/digitalenvironment.org/wp-content/uploads/2020/05/covid-19_banner-800.png?w=800&ssl=1)](https://digitalenvironment.org/home/covid-19-digital-sprint-hackathons/)
 
