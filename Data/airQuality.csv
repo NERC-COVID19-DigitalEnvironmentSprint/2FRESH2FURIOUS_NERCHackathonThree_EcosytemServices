@@ -1,0 +1,393 @@
+LA code,PM2.5 ,name
+1,10.496,Adur
+2,5.3887,Allerdale
+4,7.9524,Amber Valley
+5,9.6728,Arun
+6,8.4402,Ashfield
+7,10.1286,Ashford
+8,10.1362,Aylesbury Vale
+9,9.9836,Babergh
+10,7.4596,Barnsley
+11,7.3456,Barrow-in-Furness
+12,10.5939,Basildon
+13,10.0865,Basingstoke and Deane
+14,8.5489,Bassetlaw
+15,8.7981,Bath and North East Somerset
+16,10.2258,Bedford
+18,10.1921,Birmingham
+19,9.6091,Blaby
+20,7.8752,Blackburn with Darwen
+21,7.195,Blackpool
+23,8.1978,Bolsover
+24,8.4678,Bolton
+25,9.3205,Poole
+26,11.5693,Spelthorne
+27,9.4071,Boston
+28,9.4335,Bournemouth
+29,10.6043,Bracknell Forest
+30,8.4106,Bradford
+31,10.1371,Braintree
+32,9.651,Breckland
+33,10.6177,Brentwood
+35,10.8699,Brighton and Hove
+36,9.9991,Bristol
+37,9.6456,Broadland
+38,8.8333,Bromsgrove
+39,10.7932,Broxbourne
+40,9.0226,Broxtowe
+41,7.9459,Burnley
+42,8.2247,Bury
+43,7.8306,Calderdale
+44,10.4462,Cambridge
+45,8.5356,Cannock Chase
+46,9.9628,Canterbury
+48,6.2001,Carlisle
+51,10.251,Castle Point
+52,9.272,Charnwood
+53,10.4888,Chelmsford
+54,9.7521,Cheltenham
+55,10.2579,Cherwell
+58,7.4131,Chesterfield
+59,9.3541,Chichester
+60,10.29,Chiltern
+61,7.6108,Chorley
+62,8.7485,Christchurch
+63,8.0918,York
+64,10.2719,Colchester
+66,5.5294,Copeland
+67,9.2498,Corby
+68,8.7012,Cotswold
+69,10.2623,Coventry
+70,6.2985,Craven
+71,10.863,Crawley
+73,10.1425,Dacorum
+74,7.1363,Darlington
+75,12.1081,Dartford
+76,9.1664,Daventry
+77,9.2605,Derby
+78,6.6351,Derbyshire Dales
+80,8.5418,Doncaster
+81,9.7281,Dover
+82,9.6128,Dudley
+85,9.8841,East Cambridgeshire
+86,6.3927,East Devon
+87,8.7188,East Dorset
+88,9.4417,East Hampshire
+89,10.0753,East Hertfordshire
+90,8.7445,East Lindsey
+91,9.6243,East Northamptonshire
+92,8.335,East Riding of Yorkshire
+93,8.4018,East Staffordshire
+94,9.9823,Eastbourne
+95,10.6005,Eastleigh
+96,5.6199,Eden
+98,11.0702,Elmbridge
+99,10.8349,Epping Forest
+100,11.279,Epsom and Ewell
+101,9.0853,Erewash
+102,7.4919,Exeter
+103,10.5069,Fareham
+104,9.9367,Fenland
+105,9.8099,Forest Heath
+106,8.2315,Forest of Dean
+107,6.4481,Fylde
+108,6.9041,Gateshead
+109,8.9966,Gedling
+111,10.0707,Gloucester
+112,10.6211,Gosport
+113,11.7332,Gravesham
+114,9.7636,Great Yarmouth
+115,10.3606,Guildford
+116,8.6189,Halton
+117,7.2011,Hambleton
+118,8.9883,Harborough
+119,10.4542,Harlow
+120,7.0806,Harrogate
+121,9.9825,Hart
+122,7.3237,Hartlepool
+123,10.2415,Hastings
+124,10.7341,Havant
+126,7.8403,Herefordshire
+127,10.8172,Hertsmere
+128,6.6028,High Peak
+129,9.1404,Hinckley and Bosworth
+130,9.7453,Horsham
+131,10.0678,Huntingdonshire
+132,8.0695,Hyndburn
+133,10.9676,Ipswich
+134,9.2131,Isle of Wight
+137,9.9042,Kettering
+138,9.6613,King's Lynn and West Norfolk
+139,9.7553,Kingston upon Hull
+140,8.057,Kirklees
+141,8.9456,Knowsley
+142,6.9923,Lancaster
+143,8.9153,Leeds
+144,10.2674,Leicester
+146,9.5525,Lewes
+147,8.5628,Lichfield
+148,9.589,Lincoln
+149,9.3334,Liverpool
+150,11.3321,Luton
+152,10.6754,Maidstone
+153,9.7416,Maldon
+154,7.967,Malvern Hills
+155,8.679,Manchester
+156,8.441,Mansfield
+157,12.0612,Medway
+158,8.6671,Melton
+159,8.1116,Mendip
+161,6.5358,Mid Devon
+162,9.9134,Mid Suffolk
+163,9.9458,Mid Sussex
+164,8.0331,Middlesbrough
+165,10.8559,Milton Keynes
+166,10.2431,Mole Valley
+167,9.1675,New Forest
+168,8.9479,Newark and Sherwood
+169,6.9836,Newcastle upon Tyne
+170,7.6252,Newcastle-under-Lyme
+172,6.5491,North Devon
+173,8.4336,North Dorset
+174,7.4403,North East Derbyshire
+175,9.2382,North East Lincolnshire
+176,10.0752,North Hertfordshire
+177,9.2036,North Kesteven
+178,9.0144,North Lincolnshire
+179,9.0466,North Norfolk
+181,8.1768,North Somerset
+182,6.9409,North Tyneside
+183,9.0412,North Warwickshire
+184,8.6346,North West Leicestershire
+186,10.4061,Northampton
+187,10.3557,Norwich
+188,9.5331,Nottingham
+189,9.5475,Nuneaton and Bedworth
+190,9.4226,Oadby and Wigston
+191,8.2753,Oldham
+193,10.8641,Oxford
+194,7.9208,Pendle
+196,10.1494,Peterborough
+197,7.6226,Plymouth
+198,12.4224,Portsmouth
+199,8.0007,Preston
+200,7.9086,Purbeck
+201,11.6694,Reading
+202,7.389,Redcar and Cleveland
+203,8.6176,Redditch
+204,10.4995,Reigate and Banstead
+206,6.5522,Ribble Valley
+207,6.3532,Richmondshire
+209,8.0288,Rochdale
+210,10.0676,Rochford
+211,7.0187,Rossendale
+212,9.3904,Rother
+213,7.9883,Rotherham
+214,9.3394,Rugby
+215,11.1906,Runnymede
+216,8.8271,Rushcliffe
+217,10.9301,Rushmoor
+218,9.1201,Rutland
+219,7.4078,Ryedale
+220,8.714,Salford
+222,10.6441,Sandwell
+223,7.4835,Scarborough
+225,8.1804,Sedgemoor
+226,7.8618,Sefton
+227,8.2161,Selby
+228,10.3268,Sevenoaks
+229,7.3962,Sheffield
+230,9.6799,Folkestone & Hythe
+232,12.0684,Slough
+233,9.566,Solihull
+235,10.936,South Bucks
+236,9.9428,South Cambridgeshire
+237,8.4575,South Derbyshire
+238,9.7531,South Gloucestershire
+239,5.8612,South Hams
+241,9.3682,South Holland
+242,9.2777,South Kesteven
+243,5.8156,South Lakeland
+244,9.5959,South Norfolk
+245,9.4674,South Northamptonshire
+246,9.9215,South Oxfordshire
+247,7.6678,South Ribble
+249,7.9176,South Somerset
+250,8.4542,South Staffordshire
+251,7.0342,South Tyneside
+252,11.2241,Southampton
+253,10.2649,Southend-on-Sea
+254,10.4691,St Albans
+255,9.9336,St Edmundsbury
+256,8.3773,St Helens
+257,7.6986,Stafford
+258,6.9631,Staffordshire Moorlands
+259,10.2074,Stevenage
+260,8.0512,Stockport
+261,7.6095,Stockton-on-Tees
+262,8.1225,Stoke-on-Trent
+263,8.6291,Stratford-on-Avon
+264,8.6826,Stroud
+265,9.6517,Suffolk Coastal
+266,7.0966,Sunderland
+267,10.8219,Surrey Heath
+268,10.5563,Swale
+269,10.2743,Swindon
+270,8.3712,Tameside
+271,9.3209,Tamworth
+272,10.1293,Tandridge
+273,7.5447,Taunton Deane
+275,6.317,Teignbridge
+276,7.7167,Telford and Wrekin
+277,9.6639,Tendring
+278,9.5998,Test Valley
+279,9.1591,Tewkesbury
+280,10.2372,Thanet
+281,10.5541,Three Rivers
+282,11.4523,Thurrock
+283,10.5968,Tonbridge and Malling
+284,6.6506,Torbay
+285,6.2524,Torridge
+286,8.2388,Trafford
+287,9.8733,Tunbridge Wells
+289,9.8509,Uttlesford
+290,9.9914,Vale of White Horse
+292,8.2056,Wakefield
+293,10.2039,Walsall
+295,8.2857,Warrington
+296,9.3114,Warwick
+297,11.1419,Watford
+298,9.8267,Waveney
+299,9.5288,Waverley
+300,9.4021,Wealden
+302,10.0602,Wellingborough
+303,10.5818,Welwyn Hatfield
+304,9.8118,West Berkshire
+305,5.6718,West Devon
+306,7.3606,West Dorset
+307,7.3104,West Lancashire
+308,9.0688,West Lindsey
+309,9.5659,West Oxfordshire
+310,6.2886,West Somerset
+312,7.5398,Weymouth and Portland
+313,7.961,Wigan
+314,9.5229,Winchester
+315,10.7974,Windsor and Maidenhead
+316,8.0131,Wirral
+317,10.79,Woking
+318,10.8497,Wokingham
+319,9.3993,Wolverhampton
+320,8.875,Worcester
+321,10.5026,Worthing
+322,8.514,Wychavon
+323,10.563,Wycombe
+324,6.5696,Wyre
+325,8.3133,Wyre Forest
+326,13.0378,Barking and Dagenham
+327,11.7292,Barnet
+328,11.8266,Bexley
+329,12.1293,Brent
+330,10.9553,Bromley
+331,12.5071,Camden
+332,13.145,City of London
+333,11.6597,Croydon
+334,12.1337,Ealing
+335,12.1101,Enfield
+336,12.3659,Greenwich
+337,12.8978,Hackney
+338,12.6614,Hammersmith and Fulham
+339,12.5419,Haringey
+340,11.2865,Harrow
+341,11.4503,Havering
+342,11.3836,Hillingdon
+343,11.9127,Hounslow
+344,12.9434,Islington
+345,12.9743,Kensington and Chelsea
+346,11.5436,Kingston upon Thames
+347,12.7253,Lambeth
+348,12.3577,Lewisham
+349,12.2926,Merton
+350,13.4912,Newham
+351,12.6684,Redbridge
+352,11.5854,Richmond upon Thames
+353,12.6851,Southwark
+354,11.4547,Sutton
+355,12.8954,Tower Hamlets
+356,13.0601,Waltham Forest
+357,12.37,Wandsworth
+358,12.9499,Westminster
+359,5.9374,Aberdeen City
+360,5.1696,Aberdeenshire
+361,5.584,Angus
+362,4.4557,Argyll and Bute
+363,5.882,Clackmannanshire
+364,5.4316,Dumfries and Galloway
+365,5.9133,Dundee City
+366,5.6243,East Ayrshire
+367,5.9697,East Dunbartonshire
+368,6.0804,East Lothian
+369,5.8314,East Renfrewshire
+370,6.6986,"Edinburgh, City of"
+371,6.0821,Falkirk
+372,5.8684,Fife
+373,6.5029,Glasgow City
+374,3.842,Highland
+375,4.9233,Inverclyde
+376,6.1809,Midlothian
+377,4.5095,Moray
+378,5.305,North Ayrshire
+379,6.2854,North Lanarkshire
+380,3.3846,Orkney Islands
+381,5.495,Perth and Kinross
+382,5.7581,Renfrewshire
+383,5.6399,Scottish Borders
+384,3.2506,Shetland Islands
+385,5.3699,South Ayrshire
+386,6.1164,South Lanarkshire
+387,5.4804,Stirling
+388,5.4398,West Dunbartonshire
+389,3.1299,Eilean Siar
+390,6.0254,West Lothian
+391,7.8552,Blaenau Gwent
+392,7.7151,Bridgend
+393,8.2005,Caerphilly
+394,9.4365,Cardiff
+395,7.2823,Carmarthenshire
+396,6.4095,Ceredigion
+397,6.6505,Conwy
+398,6.9297,Denbighshire
+399,7.3278,Flintshire
+400,6.3476,Gwynedd
+401,6.1792,Isle of Anglesey
+402,7.9388,Merthyr Tydfil
+403,7.9873,Monmouthshire
+404,7.7426,Neath Port Talbot
+405,9.2658,Newport
+406,7.12,Pembrokeshire
+407,6.5488,Powys
+408,7.9413,"Rhondda, Cynon, Taff"
+409,7.933,Swansea
+410,8.3212,Torfaen
+411,7.7669,The Vale of Glamorgan
+412,7.4746,Wrexham
+439,5.1312,Isles of Scilly
+440,6.5196,County Durham
+441,6.0358,Northumberland
+442,7.1781,Shropshire
+443,8.8985,Wiltshire
+444,10.1658,Central Bedfordshire
+445,7.1494,Cheshire East
+446,7.3481,Cheshire West and Chester
+447,6.5243,Cornwall
+448,7.7813,Antrim and Newtownabbey
+449,7.2025,Armagh Banbridge and Craigavon
+450,10.3297,Belfast
+451,5.7968,Causeway Coast and Glens
+452,6.2845,Derry and Strabane
+453,4.7664,Fermanagh and Omagh
+454,8.2552,Lisburn and Castlereagh
+455,6.9702,Mid and East Antrim
+456,6.2593,Mid Ulster
+457,6.4975,Newry Mourne and Down
+458,7.7262,North Down and Ards
+447/439,6.5187,Cornwall (with Isles of Scilly)
