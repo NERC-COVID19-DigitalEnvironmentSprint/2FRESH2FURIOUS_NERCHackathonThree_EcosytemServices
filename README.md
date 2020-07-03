@@ -182,7 +182,7 @@ Wyles, K. J. et al. (2019). ‘Are Some Natural Environments More Psychologicall
 
 ## Team 
 University of Bristol
-Harry Layfield
+Harry Joseph Layfield
 Costanza Zanghi
 Kosta Manser 
 Chris Webb
@@ -195,11 +195,10 @@ Claire Robertson
 Emma Pharaoh
 
 University of Exeter 
-Dan Osmond 
+Danield Osmond 
 Hebe Carmichael 
 April Hayes
 
-## Folders
 
 # Data
 All data used for analysis 
