@@ -1,4 +1,4 @@
-[![alt text](https://mappedsites.cardiff.ac.uk/gw4watersecurity/wp-content/uploads/sites/5/2017/10/FRESH-CDT-logo-2017.jpg)
+
 
 # 2FRESH2FURIOUS_NERCHackathonThree_EcosytemServices
 This repository is 2FRESH2FURIOUS's entry to NERC's [COVID-19 Hackathon 3: Ecosystem Services](https://digitalenvironment.org/home/covid-19-digital-sprint-hackathons/covid-19-hackathon-3-ecosystem-services/). COVID-19 Hackathon 3: Ecosystem Services, organised by the Natural Environment Research Council on behalf of the UKRI. 
@@ -18,4 +18,10 @@ Can we understand from landscape structure and function, the impact of natural c
 
 ## Introduction
 
-Complex interactions between humans, animals and the environment play a critical role in the appearance of new viruses.  Approximately 75% of emerging pathogens are zoonotic and exposure to these diseases is amplified via overexploitation of ecosystem services to the point of one new infectious human disease every four months (Everard et al., 2020). UNEP (2020) concluded that exponential population growth and decline in biodiversity and ecosystems has increased opportunities for pathogen transmission. 
+## Methods
+
+## Discussion
+
+## References
+
+## Team 
