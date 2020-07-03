@@ -56,19 +56,19 @@ There are several factors which may interact with the amount of total green spac
 ### Results
 
 ![Figure 1.1](Figures/Figure1.1.png)
-Figure 1.1:
+Figure 1.1: Green spaces area (sqKm) within English local authorities and COVID-19 infection rate for 100,000 inhabitants, from the 1st of March till 25th of May 2020.
 
 ![Figure 1.2](Figures/Figure1.2.png)
-Figure 1.2:
+Figure 1.2: Green spaces in Greater London and infection rate (for 100,000 inhabitants) comparison from the 1st of March and the 25th of May 2020.
 
 ![Figure 2](Figures/Figure2.png)
 Figure 2: 
 
 ![Figure 3](Figures/Figure3.png)
-Figure 3:
+Figure 3: Pearson correlation coefficients between total green space and the cumulative COVID-19 infection rate per 10,000 people at the local authority level between March-May 2020. P. values represent the significance of each correlation coefficient, with those below 0.05 (dashed lined) being significant
 
 ![Figure 4](Figures/Figure4.png)
-Figure 4:
+Figure 4: The relationship between total green space and rate of COVID-19 infection at the local authority level for the beginning of April 2020
 
 ## Discussion
 
