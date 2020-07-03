@@ -19,7 +19,8 @@ Can we understand from landscape structure and function, the impact of natural c
 ## Introduction
 
 ## Methods
-
+### GIS
+### Statistical Analysis
 ## Discussion
 
 ## References
