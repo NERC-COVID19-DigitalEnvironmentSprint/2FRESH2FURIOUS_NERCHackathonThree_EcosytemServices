@@ -1,4 +1,4 @@
-
+![FRESH](Images/2freshlogo_3.png)
 
 # 2FRESH2FURIOUS_NERCHackathonThree_EcosytemServices
 This repository is 2FRESH2FURIOUS's entry to NERC's [COVID-19 Hackathon 3: Ecosystem Services](https://digitalenvironment.org/home/covid-19-digital-sprint-hackathons/covid-19-hackathon-3-ecosystem-services/). COVID-19 Hackathon 3: Ecosystem Services, organised by the Natural Environment Research Council on behalf of the UKRI. 
