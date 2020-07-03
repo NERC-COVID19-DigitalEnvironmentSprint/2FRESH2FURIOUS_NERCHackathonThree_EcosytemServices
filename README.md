@@ -55,14 +55,19 @@ There are several factors which may interact with the amount of total green spac
 
 ### Results
 
+![Figure 1.1](Figures/Figure1.1.png)
+Figure 1.1:
 
-Figure 1:
+![Figure 1.2](Figures/Figure1.2.png)
+Figure 1.2:
 
-Figure 2:
+![Figure 2](Figures/Figure2.png)
+Figure 2: 
 
-Figure 3: 
+![Figure 3](Figures/Figure3.png)
+Figure 3:
 
-![Figure 4](Figures/DanGraph.png)
+![Figure 4](Figures/Figure4.png)
 Figure 4:
 
 ## Discussion
