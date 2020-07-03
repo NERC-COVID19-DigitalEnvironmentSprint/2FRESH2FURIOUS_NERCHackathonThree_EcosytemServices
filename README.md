@@ -62,7 +62,7 @@ Figure 1.1: Green spaces area (sqKm) within English local authorities and COVID-
 Figure 1.2: Green spaces in Greater London and infection rate (for 100,000 inhabitants) comparison from the 1st of March and the 25th of May 2020.
 
 ![Figure 2](Figures/Figure2.png)
-Figure 2: 
+Figure 2: Infection rates in urban and non-urban geographies for three dates, 01.03.2020 (blue), 12.04.2020 (magenta) and 25.05.2020 (green). Non urban is classified as geographies outside metropolitan districts, urban is classified as data coming from metropolitan districts, the London metropolitan district has been further subdivided into London boroughs. Coloured lines represent linear regressions. Of the urban data (bottom row), both pre-lockdown infection rates (01.03.2020; blue; F(1,57) = 7.484,	p = 0.008284*, R2= 0.1006) and during stringent lockdown rates (magenta, 12.04.2020; F(1,57) = 7.745, 		p = 0.007291*, R2= 0.1042) showed a significant decline with increase of available green spaces. The same was not found after lockdown was relaxed (25.05.2020; green; F(1,57) = 0.6282, p = 0.4313, R2= -0.006452). Of the non urban data (top row) only 01.03.2020 was significant (blue; F(1, 183) = 15.98, p < 0.000*, R2= 0.07527), the other two showed no correlation, 12.04.2020 (magenta; F(1,183) = 0.3332, p = 0.5645, R2= -0.003637) and 15.05.2020 (green; F(1,183) = 0.007497, p = 0.9311, R2= -0.005423). A Bonferroni correction was applied.
 
 ![Figure 3](Figures/Figure3.png)
 Figure 3: Pearson correlation coefficients between total green space and the cumulative COVID-19 infection rate per 10,000 people at the local authority level between March-May 2020. P. values represent the significance of each correlation coefficient, with those below 0.05 (dashed lined) being significant
