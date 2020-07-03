@@ -1,4 +1,5 @@
 # 2FRESH2FURIOUS_NERCHackathonThree_EcosytemServices
+This repository is 2FRESH2FURIOUS's entry to NERC's [COVID-19 Hackathon 3: Ecosystem Services](https://digitalenvironment.org/home/covid-19-digital-sprint-hackathons/covid-19-hackathon-3-ecosystem-services/). COVID-19 Hackathon 3: Ecosystem Services, organised by the Natural Environment Research Council on behalf of the UKRI. 
 
 ![] ()
 
@@ -6,8 +7,6 @@
 
 
 # The brief
-
-This report is an entry to the [COVID-19 Hackathon 3: Ecosystem Services] (https://digitalenvironment.org/home/covid-19-digital-sprint-hackathons/covid-19-hackathon-3-ecosystem-services/) COVID-19 Hackathon 3: Ecosystem Services, organised by the Natural Environment Research Council on behalf of the UKRI.  The brief: 
 
 - Can we understand whether/how a healthy natural environment modulates the spread of COVID-19? And whether changed human behaviours are having an impact on this? Can we use this insight to improve health outcomes? 
 - Evidence-based support for decision-makers and individuals to mitigate their environmental impact and reduce their personal health risk. 
