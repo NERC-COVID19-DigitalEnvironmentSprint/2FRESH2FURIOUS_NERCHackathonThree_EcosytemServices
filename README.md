@@ -90,17 +90,17 @@ Our data tentatively suggests that green spaces in an area helps to slow the spr
 
 However, as shown previously, green spaces provide a host of essential services to communities, including physical health, wellbeing, and ecosystem services such as improved water and air quality and reduced noise pollution. Additionally, spending time in nature and green spaces has been shown to increase pro-environmental behaviours, such as recycling, walking, cycling, and being a part of an environmental group (Geng et al., 2015). This would create increased future benefit for the future lower emissions goals committed to by the UK Government in a post COVID-19 world.  It is our view, and, I’m sure one that the Government and health officials share, that access to green space should be encouraged and facilitated as much as possible, within or outside a pandemic. 
 
-This analysis gives rise to several short-term practical suggestions that local and national governments might consider in order to improve health outcomes for their populations, particularly if stricter lockdown measures return and people are confined to their local area: 
+- This analysis gives rise to several short-term practical suggestions that local and national governments might consider in order to improve health outcomes for their populations, particularly if stricter lockdown measures return and people are confined to their local area: 
 
-Increase access to green spaces, for example, by opening private land such as golf courses, school grounds or stately homes. This would provide the benefits of these green spaces to a greater proportion of the population, and a higher area of green space per head, which would aid in adhering to lockdown measures 
+- Increase access to green spaces, for example, by opening private land such as golf courses, school grounds or stately homes. This would provide the benefits of these green spaces to a greater proportion of the population, and a higher area of green space per head, which would aid in adhering to lockdown measures 
 
-Protect access to green spaces for those shielding, or who are otherwise vulnerable: for instance, by setting aside certain hours of the day 
+- Protect access to green spaces for those shielding, or who are otherwise vulnerable: for instance, by setting aside certain hours of the day 
 
-Temporarily pedestrianising areas during lockdown, particularly in local authority areas with low total green space area. This would allow better adherence to social distancing guidelines when exercising. 
+- Temporarily pedestrianising areas during lockdown, particularly in local authority areas with low total green space area. This would allow better adherence to social distancing guidelines when exercising. 
 
-Better signage or other forms of encouragement of distancing within popular green spaces 
+- Better signage or other forms of encouragement of distancing within popular green spaces 
 
-Creating apps, or other easily accessible platforms to be able to quickly assess the occupancy of local green spaces. 
+- Creating apps, or other easily accessible platforms to be able to quickly assess the occupancy of local green spaces. 
 
 Parks, gardens and local natural spaces have been a lifeline to many during this difficult time. In the long term, the creation and protection of more accessible urban green space is a priority. In the coming coronavirus-caused economic recession, local councils and developers should put this value of green space before calls to rapidly develop such land for short-term gains. Unfortunately, zoonotic spillovers are only likely to increase in the future, due to anthropogenic intrusion into natural habitats. Actively engaging in creating these resources and policies now will benefit us in future epidemics and pandemics and will reduce the human cost of such outbreaks. 
 
