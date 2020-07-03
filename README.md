@@ -184,7 +184,7 @@ Wyles, K. J. et al. (2019). ‘Are Some Natural Environments More Psychologicall
 University of Bristol
 - Harry Joseph Layfield
 - Costanza Zanghi
-- Kosta Manser 
+- Konstantine Manser 
 - Chris Webb
 
 University of Bath
