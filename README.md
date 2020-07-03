@@ -45,7 +45,7 @@ Social distancing measures in place to slow COVID-19 transmission have the poten
 ### Results
 
 
-![Figure 1](Figures/Figure3.jpeg)
+![Figure 1](Figures/DanGraph.png)
 ## Discussion
 
 ## References
