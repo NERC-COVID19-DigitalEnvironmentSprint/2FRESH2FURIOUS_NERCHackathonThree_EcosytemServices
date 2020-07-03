@@ -3,7 +3,7 @@ This repository is 2FRESH2FURIOUS's entry to NERC's [COVID-19 Hackathon 3: Ecosy
 
 ![FRESH](Images/2freshlogo_3.png)
 
-# Executive Summary 
+# Summary 
 
 
 ![Summary](Figures/Summary.png)
