@@ -181,3 +181,28 @@ White, M. P. et al. (2018). ‘Neighbourhood greenspace is related to physical a
 Wyles, K. J. et al. (2019). ‘Are Some Natural Environments More Psychologically Beneficial Than Others? The Importance of Type and Quality on Connectedness to Nature and Psychological Restoration’. Environment and Behavior, 51, 111–143. doi: 10.1177/0013916517738312. 
 
 ## Team 
+University of Bristol
+- Harry Joseph Layfield
+- Costanza Zanghi
+- Kosta Manser 
+- Chris Webb
+
+University of Bath
+- Tomo Homan 
+
+Cardiff University 
+- Claire Robertson 
+- Emma Pharaoh
+
+University of Exeter 
+- Danield Osmond 
+- Hebe Carmichael 
+- April Hayes
+
+# Data
+All data used for analysis 
+
+# Figures
+Figures 1-5 in PNG format 
+
+
