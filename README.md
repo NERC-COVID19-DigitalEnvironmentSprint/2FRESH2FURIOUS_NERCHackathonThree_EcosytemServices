@@ -48,7 +48,7 @@ png
 ![Figure 1](Figures/DanGraph.png)
 
 jpg
-![Figure 2](Figures/Figure4jpeg)
+![Figure 2](Figures/Figure4.jpeg)
 
 ## Discussion
 
