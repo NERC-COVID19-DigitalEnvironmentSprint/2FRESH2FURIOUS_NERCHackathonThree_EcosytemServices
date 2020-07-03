@@ -50,6 +50,9 @@ png
 jpg
 ![Figure 2](Figures/Figure4.jpeg)
 
+pdf
+![Figure 1](Figures/DanGraph.pdf)
+
 ## Discussion
 
 ## References
