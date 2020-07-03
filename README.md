@@ -1,3 +1,5 @@
+[![alt text](https://mappedsites.cardiff.ac.uk/gw4watersecurity/wp-content/uploads/sites/5/2017/10/FRESH-CDT-logo-2017.jpg)
+
 # 2FRESH2FURIOUS_NERCHackathonThree_EcosytemServices
 This repository is 2FRESH2FURIOUS's entry to NERC's [COVID-19 Hackathon 3: Ecosystem Services](https://digitalenvironment.org/home/covid-19-digital-sprint-hackathons/covid-19-hackathon-3-ecosystem-services/). COVID-19 Hackathon 3: Ecosystem Services, organised by the Natural Environment Research Council on behalf of the UKRI. 
 
